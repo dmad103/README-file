@@ -17,4 +17,4 @@
 <h2> Project #3 </h2>
 
 * https://github.com/dmad103/Project-3/blob/main/project3.py
-* Description: A program that shows visualizations of the top 10 poorest towns in NJ. A bar chart and pie chart are able to show data in order to spread awareness at the subject at hand.
+* Description: A program that shows visualizations of the top 10 poorest towns in NJ. A bar chart and pie chart are able to show data in order to spread awareness at the subject at hand. 
