@@ -1,6 +1,6 @@
 # Daniel Madrilejos
 
-Project #1
+<h2>Project #1<h2>
 * https://github.com/dmad103/Project-1/blob/main/project1.py
 * https://github.com/dmad103/Project-1/blob/main/ratings.csv
 * Description: A program that get's information from the ratings.csv file. It get's the average of all of the movies within the file. 
